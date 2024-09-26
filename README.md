@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Radin Rubis, an educator and Full-Stack software developer based in Tacloban City, Philippines. I bring a wealth of experience from both the academic and development sectors, as well as a strong commitment to continuous learning. My passion lies in creating software solutions to help organizations reach their objectives.
+I'm Radin Rubis, an educator and full stack software developer currently based in Victoria, BC, Canada. I bring a wealth of experience from both the academic and development sectors, as well as a strong commitment to continuous learning. My passion lies in creating software solutions to help organizations reach their objectives.
 
 <!--
 **rdrubis/rdrubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
