@@ -1,6 +1,12 @@
 ### Hello! 👋
 
-I'm Radin Rubis, an educator and full stack software developer currently based in Victoria, BC, Canada. I bring a wealth of experience from both the academic and development sectors, as well as a strong commitment to continuous learning. My passion lies in creating software solutions to help organizations reach their objectives.
+I'm Radin Rubis, a Technology Solutions Professional specializing in Systems Administration and Cloud Technologies, helping organizations build secure, scalable, and user-focused technology solutions.
+
+I help organizations build, maintain, and optimize secure, reliable, and efficient technology environments. My experience spans systems administration, Microsoft 365, cloud services, endpoint management, network infrastructure, cybersecurity, and IT service delivery, with a strong focus on supporting business and operational needs through technology.
+
+Over the course of my career, I have worked across software development, database systems, ICT4D (Information and Communication Technology for Development), and enterprise IT operations. This diverse background enables me to bridge the gap between technology and business objectives, delivering practical solutions that improve productivity, collaboration, security, and user experience.
+
+I am passionate about leveraging technology to solve complex problems, streamline processes, and create meaningful impact for organizations and the people they serve.
 
 <!--
 **rdrubis/rdrubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
